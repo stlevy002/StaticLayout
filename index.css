@@ -1,0 +1,80 @@
+nav {
+    background-color: #815fa0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height:  50px;
+    width: 100vw;
+    z-index: 1;
+  }
+  
+  nav ul li {
+    float: right;
+    margin-right: 50px;
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  .nav-link {
+    color: white;
+    text-decoration: none;
+    font-family: sans-sarif;
+  }
+  
+  .nav-link:hover {
+    color: darkslategrey;
+    font-weight: bold;
+  }
+  
+  #brand {
+    float: left;
+  }
+  
+  #brand .nav-link {
+    color: black;
+    font-size: 14pt;
+  }
+
+
+#PurpleTop {
+background-color:#815fa0 ;
+position: relative;
+height:  500px;
+width: 100vw;
+color: white;
+text-align: center;
+}
+
+#FeaturedIn {
+    margin: 5px;
+    position: relative;
+height:  500px;
+width: 100vw;
+text-align: center;
+   
+}
+
+#WhatIsKast {
+    margin: 5px;
+    
+}
+
+#TryKastTV {
+    margin: 5px;
+    
+}
+
+#PremiumFeatures {
+    margin: 10px;
+    
+}
+
+#DesktopOrPhone {
+    margin: 10px;
+
+}
+
+#Footer {
+    margin: 10px;
+
+}
