@@ -1,5 +1,5 @@
 nav {
-    background-color: #815fa0;
+    background-color: #5a4172;
     position: fixed;
     top: 0;
     left: 0;
@@ -37,7 +37,7 @@ nav {
 
 
 #PurpleTop {
-background-color:#815fa0 ;
+background-color:#5a4172 ;
 position: relative;
 height:  500px;
 width: 100vw;
@@ -48,29 +48,45 @@ text-align: center;
 #FeaturedIn {
     margin: 5px;
     position: relative;
-height:  500px;
+height:  300px;
 width: 100vw;
 text-align: center;
    
 }
 
 #WhatIsKast {
+  background-color:lightseagreen;
     margin: 5px;
+    position: relative;
+    height: 300px;
+    width: 100vw;
+    color: white;
+    text-align: center;
     
 }
 
 #TryKastTV {
     margin: 5px;
+    text-align: center;
+   
+
+
     
 }
 
 #PremiumFeatures {
-    margin: 10px;
-    
+    margin: 5px;
+    background-color:rgb(53, 62, 70);
+    color: white;
+    position: relative;
+    height: 900px;
+    width: 100vw;
+    text-align: center;
 }
 
 #DesktopOrPhone {
     margin: 10px;
+    text-align: center;
 
 }
 
