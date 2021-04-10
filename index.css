@@ -37,9 +37,10 @@ nav {
 
 
 #PurpleTop {
+  margin: 5px;
 background-color:#5a4172 ;
 position: relative;
-height:  600px;
+height:  500px;
 width: 100vw;
 color: white;
 text-align: center;
